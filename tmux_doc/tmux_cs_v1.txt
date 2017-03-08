@@ -1,1 +1,4 @@
 # TMUX CHEAT SHEET - Master
+[1]: added git-completion.bash to .bash_profile
+[2]: added git-prompt.sh to .bash_profile
+
