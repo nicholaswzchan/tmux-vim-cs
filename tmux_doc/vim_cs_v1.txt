@@ -1,1 +1,3 @@
 # VIM Cheat Sheet - Master
+
+:q - quit
