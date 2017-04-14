@@ -1,4 +1,5 @@
 ### MARKDOWN
 
-- Bold \* word \*
-- Italic \*\* word \*\*
+- Italic \* *word* \*
+- Bold \*\* **word** \*\*
+- Strike \~  ~Strick~ \~
