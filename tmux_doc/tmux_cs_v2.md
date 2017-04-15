@@ -133,6 +133,9 @@ For example, we can use "w" to jump to the next word and "b" to jump back one wo
        Start selection         Space          C-Space
        Transpose chars                        C-t
 
+       List buffer             #
+       Paste buffer            =
+
 ## Misc
 
     d  detach
