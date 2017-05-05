@@ -8,3 +8,5 @@
 -l      Print only the names of files with matching lines (this is the lowercase letter"L").
 -c      Print only the count of matching lines.
 -i      Match either upper- or lowercase.
+--color highlights the matching with color (Usage grep --color=always).
+
